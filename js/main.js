@@ -19,7 +19,7 @@ addEventId('btcode', criptografar,'click'  )
 addEventId('btdecode', descriptografar,'click' )
 addEventId('imgvoltar', voltar,'click' )
 addEventId('key', changeKey, 'change')
-addEventId('msg', changeMsg, 'change')
+addEventId('msg', changeMsg, 'keydown')
 
 objetos.Pg2.style.display = 'none'
 objetos.Home.style.display = ''
