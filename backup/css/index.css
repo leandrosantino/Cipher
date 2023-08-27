@@ -1,52 +1,39 @@
-*{
+* {
     margin: 0;
 }
-body{
+
+body {
     background-image: url(Home.png);
     background-position: center;
     background-attachment: fixed;
     background-size: 100% 100%;
 
 }
-#copy1{
+
+#copy1 {
     position: absolute;
     color: white;
-    font:italic 16pt arial ;
+    font: italic 16pt arial;
     margin-left: 12px;
     width: 259px;
     text-align: center;
     bottom: 5px;
 
-    
+
 }
-#copy2{
+
+#copy2 {
     color: white;
-    font:italic 16pt arial ;
+    font: italic 16pt arial;
     margin: auto;
     width: 300px;
     text-align: center;
     margin-top: 10px;
-    
+
 }
 
-/*
-#home{   
-    
-}
-.pg2{
-   
-}
-.code{
-    
-}
-.decode{
-    
-}
-*/
+.label {
 
-
-.label{
-    
     margin-left: 15px;
     margin-top: 5px;
     width: 100px;
@@ -58,160 +45,173 @@ body{
 }
 
 
-#btvoltar{
-        
-        position: relative;
-        margin: auto;
-        width: 60px;
-        height: 60px;
-        margin-top: 0;
-        margin-right: 0px;
-    }
-    #imgvoltar{
-        position: absolute;
-        width: 60px;
-        height: 60px;
-    }
+#btvoltar {
 
-    #logoC{
-        margin: auto;
-        width: 350px;
-        margin-top: -20px;
-    }
-    #imglogoC{
-        width: 350px;
-    }
+    position: relative;
+    margin: auto;
+    width: 60px;
+    height: 60px;
+    margin-top: 0;
+    margin-right: 0px;
+}
 
-    #cxMsg{       
-        
-        position: relative;
-        margin: auto;
-        width: 350px;
-        height: 220px;
-        text-align: center;
-        margin-top: 25px;
-        }
-        #msg{
-            font:normal 14pt arial;
-            resize: none;
-            position: absolute;
-            margin: auto;
-            width: 330px;
-            height: 160px;
-            margin-top: 0px;
-            margin-left: -172px;
-            border: 5px solid white;
-            border-radius: 10px;
-            
-        }
+#imgvoltar {
+    position: absolute;
+    width: 60px;
+    height: 60px;
+}
 
-    #cxKey{
-        position: relative;
-        margin: auto;
-        margin-top: 20px;
-        width: 335px;
-        height: 60px;
-    }
-        #keytxt{
-            position: absolute;
-            margin-left: 15px;
-            margin-top: 10px;
-            width: 100px;
-            height: 40px;
-            font: bold 25pt arial;
-            color: white;
-        }
-        #key{
-            text-align: center;
-            font:normal 14pt arial ;
-            width: 170px;
-            height: 40px;
-            margin-left: 135px;
-            margin-top: 9px;
-            border: none;
-            border-radius: 10px;
-        }
+#logoC {
+    margin: auto;
+    width: 350px;
+    margin-top: -20px;
+}
 
-    #cxCode{
-        position: relative;
-        margin: auto;
-        width: 350px;
-        height: 220px;
-        
-        margin-top: 25px;     
-    }
-        #resp{
-            background-color: white;
-            font:normal 16pt arial;
-            position: absolute;
-            margin: auto;
-            width: 340px;
-            height: 170px;
-            margin-top: 0px;
-            margin-left: 5px;
-            border: none;
-            border-radius: 10px;
-            text-align: justify;
-        }
-        p{
-            padding: 10px;
-        }
+#imglogoC {
+    width: 350px;
+}
+
+#cxMsg {
+
+    position: relative;
+    margin: auto;
+    width: 350px;
+    height: 220px;
+    text-align: center;
+    margin-top: 25px;
+}
+
+#msg {
+    font: normal 14pt arial;
+    resize: none;
+    position: absolute;
+    margin: auto;
+    width: 330px;
+    height: 160px;
+    margin-top: 0px;
+    margin-left: -172px;
+    border: 5px solid white;
+    border-radius: 10px;
+
+}
+
+#cxKey {
+    position: relative;
+    margin: auto;
+    margin-top: 20px;
+    width: 335px;
+    height: 60px;
+}
+
+#keytxt {
+    position: absolute;
+    margin-left: 15px;
+    margin-top: 10px;
+    width: 100px;
+    height: 40px;
+    font: bold 25pt arial;
+    color: white;
+}
+
+#key {
+    text-align: center;
+    font: normal 14pt arial;
+    width: 170px;
+    height: 40px;
+    margin-left: 135px;
+    margin-top: 9px;
+    border: none;
+    border-radius: 10px;
+}
+
+#cxCode {
+    position: relative;
+    margin: auto;
+    width: 350px;
+    height: 220px;
+
+    margin-top: 25px;
+}
+
+#resp {
+    background-color: white;
+    font: normal 16pt arial;
+    position: absolute;
+    margin: auto;
+    width: 340px;
+    height: 170px;
+    margin-top: 0px;
+    margin-left: 5px;
+    border: none;
+    border-radius: 10px;
+    text-align: justify;
+}
+
+p {
+    padding: 10px;
+}
 
 
-    #logo{
-        width: 181px;
-    }
-    #imgH{
-        
-        position: relative;
-        margin: auto;
-        width: 181px;
-        
-        text-align: center;
-        margin-top: 60px;
-    }
+#logo {
+    width: 181px;
+}
 
-    #caixa{
-        position: relative;
-        margin: auto;
-        width: 301px;
-        height: 350px;
-        border-radius: 20px;
-        background-color: rgba(255, 255, 255, 0.207);
-        margin-top: 30px;
-        
-        }
-        .bt{
-            height: 75px;
-            width: 265px;
-            margin-left: 18px;
-            margin-top: 60px;
-            position: absolute;
-            border-radius: 20px;
-            border: 0; 
-        }
-        #btcode{
-            background-color: rgba(255, 255, 255, 0);
-            overflow: auto;
-        }
-        #btdecode{
-            background-color: rgba(255, 255, 255, 0);
-            margin-top: 185px;
-        }
-        #imgcode{
-            
-            background-image: url(cript.png);
-            background-position: center;
-            background-repeat: no-repeat;
-            background-size: 280px 110px;
-            
+#imgH {
 
-        }
-        #imgdecode{
-        
-            background-image: url(decrip.png);
-            background-position: center;
-            background-repeat: no-repeat;
-            background-size: 280px 110px;
-            margin-top: 185px;
-        }
+    position: relative;
+    margin: auto;
+    width: 181px;
+
+    text-align: center;
+    margin-top: 60px;
+}
+
+#caixa {
+    position: relative;
+    margin: auto;
+    width: 301px;
+    height: 350px;
+    border-radius: 20px;
+    background-color: rgba(255, 255, 255, 0.207);
+    margin-top: 30px;
+
+}
+
+.bt {
+    height: 75px;
+    width: 265px;
+    margin-left: 18px;
+    margin-top: 60px;
+    position: absolute;
+    border-radius: 20px;
+    border: 0;
+}
+
+#btcode {
+    background-color: rgba(255, 255, 255, 0);
+    overflow: auto;
+}
+
+#btdecode {
+    background-color: rgba(255, 255, 255, 0);
+    margin-top: 185px;
+}
+
+#imgcode {
+
+    background-image: url(cript.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 280px 110px;
+
+
+}
+
+#imgdecode {
+
+    background-image: url(decrip.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 280px 110px;
+    margin-top: 185px;
+}
