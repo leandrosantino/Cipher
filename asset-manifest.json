@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/cipher/static/css/main.758820f2.css",
+    "main.js": "/cipher/static/js/main.c6049a72.js",
+    "index.html": "/cipher/index.html",
+    "main.758820f2.css.map": "/cipher/static/css/main.758820f2.css.map",
+    "main.c6049a72.js.map": "/cipher/static/js/main.c6049a72.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.758820f2.css",
+    "static/js/main.c6049a72.js"
+  ]
+}
