@@ -81,7 +81,7 @@ function App() {
 
 
         <footer className="w-full text-center text-sm italic" >
-          &copy;leadnroSantino
+          &copy;leandroSantino
         </footer>
 
       </div>
