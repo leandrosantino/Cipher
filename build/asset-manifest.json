@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/Cipher/static/css/main.758820f2.css",
-    "main.js": "/Cipher/static/js/main.c6049a72.js",
+    "main.js": "/Cipher/static/js/main.0b65b234.js",
     "index.html": "/Cipher/index.html",
     "main.758820f2.css.map": "/Cipher/static/css/main.758820f2.css.map",
-    "main.c6049a72.js.map": "/Cipher/static/js/main.c6049a72.js.map"
+    "main.0b65b234.js.map": "/Cipher/static/js/main.0b65b234.js.map"
   },
   "entrypoints": [
     "static/css/main.758820f2.css",
-    "static/js/main.c6049a72.js"
+    "static/js/main.0b65b234.js"
   ]
 }
