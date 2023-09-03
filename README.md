@@ -5,9 +5,9 @@ conhecido como: _**”Cifra de Vegenere”**_. Ele possui uma interface simples
 construída com ReactJs, onde você pode, tanto criptografia quanto
 descriptografar uma mensagem.
 
-![teste](https://github.com/leandrosantino/Cipher/blob/main/public/cipher1.png?raw=true)
-![teste](https://github.com/leandrosantino/Cipher/blob/main/public/cipher2.png?raw=true)
-![teste](https://github.com/leandrosantino/Cipher/blob/main/public/cipher3.png?raw=true)
+![teste](https://raw.githubusercontent.com/leandrosantino/Cipher/main/public/cipher1.png)
+![teste](https://raw.githubusercontent.com/leandrosantino/Cipher/main/public/cipher2.png)
+![teste](https://raw.githubusercontent.com/leandrosantino/Cipher/main/public/cipher3.png)
 
 > “A cifra de Vigenère é um método de encriptação que usa um série de diferentes
 > cifras de César baseadas em letras de uma senha.”
