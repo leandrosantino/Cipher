@@ -1,9 +1,8 @@
 # Cipher
 
 O **"Cipher"** é um site que implementa o método de criptografia de mensagens,
-conhecido como: _**”Cifra de Vegenere”**_. Ele possui uma interface simples
-construída com ReactJs, onde você pode, tanto criptografia quanto
-descriptografar uma mensagem.
+conhecido como: _**”Cifra de Vigenère”**_. Ele possui uma interface simples
+construída com ReactJs, onde você pode, tanto criptografar quanto descriptografar uma mensagem.
 
 ![teste](https://raw.githubusercontent.com/leandrosantino/Cipher/main/public/cipher1.png)
 ![teste](https://raw.githubusercontent.com/leandrosantino/Cipher/main/public/cipher2.png)
@@ -22,16 +21,16 @@ sobre a cifra de Vigenère.
 
 ## Aprendizados
 
-Este site foi inicialmente criado com htm, css e javascript puros. Ele é um dos
+Este site foi inicialmente criado com html, css e javascript puros. Ele é um dos
 meus primeiros projetos. Recentemente decidi recria-lo usando uma stack mais
 moderna como o ReactJs.
 
-Como ja tenho prática com o ReactJs não tive dificuldade em refazer, porém, a
+Como já tenho prática com o ReactJs não tive dificuldade em refazer o **Cipher**, porém, a
 primeira versão do projeto me trouxe muitos aprendizados, como:
 
 - Desenvolver a minha lógica de programação
 - Criar navegação de paginas com html
-- Implementar formulas matemáticas como algoritmo.
+- Implementar formulas matemáticas em algoritmos.
 
 Contudo, este projeto foi essencial no meu processo de aprendizagem como
 programador, a partir dos conhecimentos adquiridos durante a sua construção, me
